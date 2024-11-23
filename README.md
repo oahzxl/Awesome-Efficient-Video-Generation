@@ -27,3 +27,6 @@ A curated list of recent efficient video generation methods.
 + [Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502)  \
 | ICLR 21 | [Code](https://github.com/ermongroup/ddim) |
   [![Star](https://img.shields.io/github/stars/ermongroup/ddim.svg?style=social&label=Star)](https://github.com/ermongroup/ddim) |
+
++ [Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502) \
+| ICLR 21 | [Code](https://github.com/ermongroup/ddim) | ![](https://img.shields.io/github/stars/ermongroup/ddim?style=flat-square) |
