@@ -11,12 +11,12 @@
 
 A curated list of recent efficient video generation methods.
 
-## 🗂️ Contents
+## 🗂️ Table of Contents
 - [Scheduler](#scheduler)
-- [Pruning](#pruning) 
-- [Quantization](#quantization)
 - [Distillation](#distillation)
+- [Quantization](#quantization)
 - [Caching](#caching)
+- [Pruning](#pruning)
 - [Parallelism](#parallelism)
 - [Others](#others)
 
@@ -45,13 +45,10 @@ NeurIPS 2022 | [Paper](https://arxiv.org/abs/2206.00927) | [Code](https://github
 * [Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502) \
 ICLR 2021 | [Paper](https://arxiv.org/pdf/2010.02502) | [Code](https://github.com/ermongroup/ddim) | ![GitHub stars](https://img.shields.io/github/stars/ermongroup/ddim?style=social)
 
-### Pruning
+### Distillation
 
 
 ### Quantization
-
-
-### Distillation
 
 
 ### Caching
@@ -80,6 +77,10 @@ arXiv 2024 | [Paper](https://arxiv.org/abs/2404.02747v2) | [Code](https://github
 * [Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models](https://arxiv.org/abs/2404.02747v1) \
 arXiv 2024 | [Paper](https://arxiv.org/abs/2404.02747v1) | [Code](https://github.com/HaozheLiu-ST/T-GATE) | ![GitHub stars](https://img.shields.io/github/stars/HaozheLiu-ST/T-GATE?style=social)
 
+
+### Pruning
+
+
 ### Parallelism
 
 * [xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism](https://arxiv.org/abs/2405.14430) \
@@ -93,6 +94,7 @@ arXiv 2024 | [Paper](https://arxiv.org/abs/2403.10266) | [Code](https://github.c
 
 * [DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models](https://arxiv.org/abs/2402.19481) \
 CVPR 2024 (Highlight) | [Paper](https://arxiv.org/abs/2402.19481) | [Code](https://github.com/mit-han-lab/distrifuser) | ![GitHub stars](https://img.shields.io/github/stars/mit-han-lab/distrifuser?style=social)
+
 
 
 ### Others
