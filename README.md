@@ -31,9 +31,15 @@ ICLR 21 | [Paper](https://arxiv.org/pdf/2010.02502) | [Code](https://github.com/
 ICLR 23 (Spotlight) | [Paper](https://arxiv.org/abs/2210.02747)
 
 * [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/abs/2209.03003) \
+ICLR 23 (Spotlight) | [Paper](https://arxiv.org/abs/2209.03003) | [Code](https://github.com/gnobitab/RectifiedFlow) | ![GitHub stars](https://img.shields.io/github/stars/gnobitab/RectifiedFlow?style=social) | ![GitHub stars](https://img.shields.io/github/stars/gnobitab/RectifiedFlow?style=social)
+
+ICLR 23 (Spotlight) | [Paper](https://arxiv.org/abs/2209.03003) | [Code](https://github.com/gnobitab/RectifiedFlow) | ![GitHub stars](https://img.shields.io/github/stars/gnobitab/RectifiedFlow?style=social) 
+
 ICLR 23 (Spotlight) | [Paper](https://arxiv.org/abs/2209.03003) | [Code](https://github.com/gnobitab/RectifiedFlow) | <img src="https://img.shields.io/github/stars/gnobitab/RectifiedFlow?style=social" style="vertical-align: middle"/>
 
 
+
+<table><tr><td valign="center"><img src="https://img.shields.io/github/stars/gnobitab/RectifiedFlow?style=social"/> text </td></tr></table>
 
 ### Pruning
 
