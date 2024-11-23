@@ -1,3 +1,29 @@
-# Awesome Efficient Video Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
+# Awesome Efficient Video Generation
+
+<p>
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Last Commit](https://img.shields.io/github/last-commit/xuyang-liu16/Awesome-Diffusion-Acceleration.svg?style=flat&color=orange)](https://github.com/xuyang-liu16/Awesome-Diffusion-Acceleration)
+[![GitHub](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/Awesome-Efficient-Video-Generation.svg?style=social)](https://github.com/NUS-HPC-AI-Lab/Awesome-Efficient-Video-Generation.git)  
+
+</p>
 
 A curated list of recent efficient video generation methods.
+
+## 🗂️ Contents
+- [Scheduler](#scheduler)
+- [Pruning](#pruning) 
+- [Quantization](#quantization)
+- [Distillation](#distillation)
+- [Caching](#caching)
+- [Parallelism](#parallelism)
+- [Others](#others)
+
+## 📄 Papers
+
+### Scheduelr
+
++ [Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502)  \
+| ICLR 21 | [Code](https://github.com/ermongroup/ddim) |
+  [![Star](https://img.shields.io/github/stars/ermongroup/ddim.svg?style=social&label=Star)](https://github.com/ermongroup/ddim) |
