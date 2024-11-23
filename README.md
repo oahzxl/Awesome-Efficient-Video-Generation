@@ -26,7 +26,7 @@ A curated list of recent efficient video generation methods.
 
 * [Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502) \
 | ICLR 21 | [Paper](https://arxiv.org/pdf/2010.02502) | [Code](https://github.com/ermongroup/ddim) | \
-![Star](https://img.shields.io/github/stars/ermongroup/ddim.svg?style=social&label=Star)
+![Citations](https://img.shields.io/badge/dynamic/json?logo=semantic-scholar&label=Citations&color=blue&query=$.citationCount&url=https://api.semanticscholar.org/graph/v1/paper/014576b866078524286802b1d0e18628520aa886?fields=citationCount) ![GitHub stars](https://img.shields.io/github/stars/ermongroup/ddim?style=social)
 
 ### Pruning
 
