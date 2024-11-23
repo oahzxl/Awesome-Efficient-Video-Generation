@@ -28,6 +28,13 @@ A curated list of recent efficient video generation methods.
 | ICLR 21 | [Paper](https://arxiv.org/pdf/2010.02502) | [Code](https://github.com/ermongroup/ddim) | \
 ![GitHub stars](https://img.shields.io/github/stars/ermongroup/ddim?style=social)
 
+* [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747) \
+| ICLR 23 (Spotlight) | [Paper](https://arxiv.org/abs/2210.02747) |
+
+* [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/abs/2209.03003) \
+| ICLR 23 (Spotlight) | [Paper](https://arxiv.org/abs/2209.03003) | [Code](https://github.com/gnobitab/RectifiedFlow) | \
+![GitHub stars](https://img.shields.io/github/stars/gnobitab/RectifiedFlow?style=social)
+
 ### Pruning
 
 
