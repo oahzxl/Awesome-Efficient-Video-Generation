@@ -30,6 +30,9 @@ arXiv 2024 | [Paper](https://arxiv.org/abs/2410.05954) | [Code](https://github.c
 * [AdaDiff: Adaptive Step Selection for Fast Diffusion Models](https://arxiv.org/pdf/2311.14768) \
 arXiv 2023 | [Paper](https://arxiv.org/pdf/2311.14768)
 
+* [Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference](https://arxiv.org/abs/2310.04378) \
+ICLR 2024 | [Paper](https://arxiv.org/abs/2310.04378) | [Code](https://github.com/luosiallen/latent-consistency-model) | ![GitHub stars](https://img.shields.io/github/stars/luosiallen/latent-consistency-model?style=social)
+
 * [DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models](https://arxiv.org/abs/2211.01095) \
 arXiv 2022 | [Paper](https://arxiv.org/abs/2211.01095) | [Code](https://github.com/LuChengTHU/dpm-solver) | ![GitHub stars](https://img.shields.io/github/stars/LuChengTHU/dpm-solver?style=social)
 
@@ -46,6 +49,25 @@ NeurIPS 2022 | [Paper](https://arxiv.org/abs/2206.00927) | [Code](https://github
 ICLR 2021 | [Paper](https://arxiv.org/pdf/2010.02502) | [Code](https://github.com/ermongroup/ddim) | ![GitHub stars](https://img.shields.io/github/stars/ermongroup/ddim?style=social)
 
 ### Distillation
+
+* [Distilling Diffusion Models into Conditional GANs](https://arxiv.org/abs/2405.05967) \
+ECCV 2024 | [Paper](https://arxiv.org/abs/2405.05967)
+
+* [Improved Distribution Matching Distillation for Fast Image Synthesis](https://arxiv.org/abs/2405.14867) \
+NeurIPS 2024 (Oral) | [Paper](https://arxiv.org/abs/2405.14867) | [Code](https://github.com/tianweiy/DMD2) | ![GitHub stars](https://img.shields.io/github/stars/tianweiy/DMD2?style=social)
+
+* [Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation](https://arxiv.org/abs/2403.12015) \
+arXiv 2024 | [Paper](https://arxiv.org/abs/2403.12015)
+
+* [LCM-LoRA: A Universal Stable-Diffusion Acceleration Module](https://arxiv.org/abs/2311.05556) \
+arXiv 2023 | [Paper](https://arxiv.org/abs/2311.05556) | [Code](https://github.com/luosiallen/latent-consistency-model) | ![GitHub stars](https://img.shields.io/github/stars/luosiallen/latent-consistency-model?style=social)
+
+* [One-step Diffusion with Distribution Matching Distillation
+](https://arxiv.org/abs/2311.18828) \
+CVPR 2024 | [Paper](https://arxiv.org/abs/2311.18828)
+
+* [Adversarial Diffusion Distillation](https://arxiv.org/abs/2311.17042) \
+ECCV 2024 | [Paper](https://arxiv.org/abs/2311.17042)
 
 
 ### Quantization
