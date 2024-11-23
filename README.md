@@ -22,11 +22,24 @@ A curated list of recent efficient video generation methods.
 
 ## 📄 Papers
 
-### Scheduelr
+### Scheduler
 
-+ [Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502)  \
-| ICLR 21 | [Code](https://github.com/ermongroup/ddim) |
-  [![Star](https://img.shields.io/github/stars/ermongroup/ddim.svg?style=social&label=Star)](https://github.com/ermongroup/ddim) |
+* [Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502) \
+| ICLR 21 | [Paper](https://arxiv.org/pdf/2010.02502) | [Code](https://github.com/ermongroup/ddim) <img src="https://img.shields.io/github/stars/ermongroup/ddim?style=social" alt="GitHub stars" style="vertical-align: middle;"> |
 
-+ [Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502) \
-| ICLR 21 | [Code](https://github.com/ermongroup/ddim) | ![](https://img.shields.io/github/stars/ermongroup/ddim?style=flat-square) |
+### Pruning
+
+
+### Quantization
+
+
+### Distillation
+
+
+### Caching
+
+
+### Parallelism
+
+
+### Others
