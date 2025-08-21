@@ -49,9 +49,6 @@ A curated list of recent efficient video generation methods.
 * FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion \
 2025.06 | [Paper](https://arxiv.org/abs/2506.04648)
 
-* FastCache: Fast Caching for Diffusion Transformer Through Learnable Linear Approximation \
-2025.05 | [Paper](https://arxiv.org/abs/2505.20353) | [Code](https://github.com/NoakLiu/FastCache-xDiT) | ![GitHub stars](https://img.shields.io/github/stars/NoakLiu/FastCache-xDiT?style=social)
-
 * Memory-Efficient Visual Autoregressive Modeling with Scale-Aware KV Cache Compression \
 2025.05 | [Paper](https://arxiv.org/abs/2505.19602) | [Code](https://github.com/StargazerX0/ScaleKV) | ![GitHub stars](https://img.shields.io/github/stars/StargazerX0/ScaleKV?style=social)
 
@@ -74,7 +71,7 @@ A curated list of recent efficient video generation methods.
 2025.06 | [Paper](https://arxiv.org/abs/2506.23858) | [Code](https://github.com/KwaiVGI/VMoBA) | ![GitHub stars](https://img.shields.io/github/stars/KwaiVGI/VMoBA?style=social)
 
 * Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation \
-2025.06 | [Paper](https://arxiv.org/abs/2506.19852) | [Code](https://github.com/KwaiVGI/VMoBA) | ![GitHub stars](https://img.shields.io/github/stars/KwaiVGI/VMoBA?style=social)
+2025.06 | [Paper](https://arxiv.org/abs/2506.19852) | [Code](https://github.com/mit-han-lab/radial-attention) | ![GitHub stars](https://img.shields.io/github/stars/mit-han-lab/radial-attention?style=social)
 
 * VORTA: Efficient Video Diffusion via Routing Sparse Attention \
 2025.05 | [Paper](https://arxiv.org/abs/2505.18809) | [Code](https://github.com/wenhao728/VORTA) | ![GitHub stars](https://img.shields.io/github/stars/wenhao728/VORTA?style=social)
@@ -104,10 +101,13 @@ A curated list of recent efficient video generation methods.
 2025.07 | [Paper](https://arxiv.org/abs/2507.06739) | [Code](https://github.com/zishen-ucap/PromptTea) | ![GitHub stars](https://img.shields.io/github/stars/zishen-ucap/PromptTea?style=social)
 
 * Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching \
-2024.07 | [Paper](https://arxiv.org/abs/2507.02860) | [Code](https://github.com/HugoZHL/EasyCache) | ![GitHub stars](https://img.shields.io/github/stars/HugoZHL/EasyCache?style=social)
+2024.07 | [Paper](https://arxiv.org/abs/2507.02860) | [Code](https://github.com/H-EmbodVis/EasyCache) | ![GitHub stars](https://img.shields.io/github/stars/H-EmbodVis/EasyCache?style=social)
 
 * MagCache: Fast Video Generation with Magnitude-Aware Cache \
 2025.06 | [Paper](https://arxiv.org/abs/2506.09045) | [Code](https://github.com/Zehong-Ma/MagCache) | ![GitHub stars](https://img.shields.io/github/stars/Zehong-Ma/MagCache?style=social)
+
+* FastCache: Fast Caching for Diffusion Transformer Through Learnable Linear Approximation \
+2025.05 | [Paper](https://arxiv.org/abs/2505.20353) | [Code](https://github.com/NoakLiu/FastCache-xDiT) | ![GitHub stars](https://img.shields.io/github/stars/NoakLiu/FastCache-xDiT?style=social)
 
 * AB-Cache: Training-Free Acceleration of Diffusion Models via Adams-Bashforth Cached Feature Reuse \
 2025.04 | [Paper](https://arxiv.org/abs/2504.10540)
@@ -158,25 +158,25 @@ A curated list of recent efficient video generation methods.
 2024.06 | [Paper](https://arxiv.org/abs/2406.08552) | [Code](https://github.com/thu-nics/DiTFastAttn) | ![GitHub stars](https://img.shields.io/github/stars/thu-nics/DiTFastAttn?style=social)
 
 * Faster Diffusion via Temporal Attention Decomposition \
-2024.04 | [Paper](https://arxiv.org/abs/2404.02747v1) | [Code](https://github.com/HaozheLiu-ST/T-GATE) | ![GitHub stars](https://img.shields.io/github/stars/HaozheLiu-ST/T-GATE?style=social)
+2024.04 | [Paper](https://arxiv.org/abs/2404.02747) | [Code](https://github.com/HaozheLiu-ST/T-GATE) | ![GitHub stars](https://img.shields.io/github/stars/HaozheLiu-ST/T-GATE?style=social)
 
 
 
 ### Token Merging
 * VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate \
-2025.04 | [Paper](https://arxiv.org/pdf/2504.12259) | [Code](https://github.com/thu-nics/VGDFR) | ![GitHub stars](https://img.shields.io/github/stars/thu-nics/VGDFR?style=social)
+2025.04 | [Paper](https://arxiv.org/abs/2504.12259) | [Code](https://github.com/thu-nics/VGDFR) | ![GitHub stars](https://img.shields.io/github/stars/thu-nics/VGDFR?style=social)
 
 * D2iT: Dynamic Diffusion Transformer for Accurate Image Generation \
 2025.04 | [Paper](https://arxiv.org/abs/2504.09454)
 
 * Training-free Diffusion Acceleration with Bottleneck Sampling \
-2025.03 | [Paper](https://arxiv.org/pdf/2503.18940)
+2025.03 | [Paper](https://arxiv.org/abs/2503.18940)
 
 * TPDiff: Temporal Pyramid Video Diffusion Model \
-2025.03 | [Paper](https://arxiv.org/pdf/2503.09566) | [Code](https://github.com/showlab/TPDiff) | ![GitHub stars](https://img.shields.io/github/stars/showlab/TPDiff?style=social)
+2025.03 | [Paper](https://arxiv.org/abs/2503.09566) | [Code](https://github.com/showlab/TPDiff) | ![GitHub stars](https://img.shields.io/github/stars/showlab/TPDiff?style=social)
 
 * DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation \
-2025.02 | [Paper](https://arxiv.org/pdf/2502.11897)
+2025.02 | [Paper](https://arxiv.org/abs/2502.11897)
 
 * Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient \
 2024.11 | [Paper](https://arxiv.org/abs/2411.17787) | [Code](https://github.com/czg1225/CoDe) | ![GitHub stars](https://img.shields.io/github/stars/czg1225/CoDe?style=social)
@@ -191,7 +191,7 @@ A curated list of recent efficient video generation methods.
 
 ### Pruning
 * FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute \
-2025.02 | [Paper](https://arxiv.org/pdf/2502.20126)
+2025.02 | [Paper](https://arxiv.org/abs/2502.20126)
 
 * UniCP: A Unified Caching and Pruning Framework for Efficient Video Generation \
 2025.02 | [Paper](https://arxiv.org/abs/2502.04393)
@@ -242,7 +242,7 @@ A curated list of recent efficient video generation methods.
 2024.11 | [Paper](https://arxiv.org/abs/2411.05007) | [Code](https://github.com/nunchaku-tech/nunchaku) | ![GitHub stars](https://img.shields.io/github/stars/nunchaku-tech/nunchaku?style=social)
 
 * ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation \
-2024.06 | [Paper](https://arxiv.org/abs/2408.05300) | [Code](https://github.com/thu-nics/ViDiT-Q) | ![GitHub stars](https://img.shields.io/github/stars/thu-nics/ViDiT-Q?style=social)
+2024.06 | [Paper](https://arxiv.org/abs/2406.02540) | [Code](https://github.com/thu-nics/ViDiT-Q) | ![GitHub stars](https://img.shields.io/github/stars/thu-nics/ViDiT-Q?style=social)
 
 
 
@@ -254,7 +254,7 @@ A curated list of recent efficient video generation methods.
 2025.06 | [Paper](https://arxiv.org/abs/2506.05096)
 
 * xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism \
-2024.05 | [Paper](https://arxiv.org/abs/2405.14430) | [Code](https://github.com/xdit-project/xDiT) | ![GitHub stars](https://img.shields.io/github/stars/xdit-project/xDiT?style=social)
+2024.05 | [Paper](https://arxiv.org/abs/2411.01738) | [Code](https://github.com/xdit-project/xDiT) | ![GitHub stars](https://img.shields.io/github/stars/xdit-project/xDiT?style=social)
 
 * PipeFusion: Patch-level Pipeline Parallelism for Diffusion Transformers Inference \
 2024.05 | [Paper](https://arxiv.org/abs/2405.14430) | [Code](https://github.com/xdit-project/xDiT) | ![GitHub stars](https://img.shields.io/github/stars/xdit-project/xDiT?style=social)
@@ -278,7 +278,7 @@ A curated list of recent efficient video generation methods.
 2024.06 | [Paper](https://arxiv.org/abs/2406.06911) | [Code](https://github.com/czg1225/AsyncDiff) | ![GitHub stars](https://img.shields.io/github/stars/czg1225/AsyncDiff?style=social)
 
 * AdaDiff: Adaptive Step Selection for Fast Diffusion Models \
-2023.11 | [Paper](https://arxiv.org/pdf/2311.14768)
+2023.11 | [Paper](https://arxiv.org/abs/2311.14768)
 
 * Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference \
 2023.10 | [Paper](https://arxiv.org/abs/2310.04378) | [Code](https://github.com/luosiallen/latent-consistency-model) | ![GitHub stars](https://img.shields.io/github/stars/luosiallen/latent-consistency-model?style=social)
@@ -296,4 +296,4 @@ A curated list of recent efficient video generation methods.
 2022.06 | [Paper](https://arxiv.org/abs/2206.00927) | [Code](https://github.com/LuChengTHU/dpm-solver) | ![GitHub stars](https://img.shields.io/github/stars/LuChengTHU/dpm-solver?style=social)
 
 * Denoising Diffusion Implicit Models \
-2020.10 | [Paper](https://arxiv.org/pdf/2010.02502) | [Code](https://github.com/ermongroup/ddim) | ![GitHub stars](https://img.shields.io/github/stars/ermongroup/ddim?style=social)
+2020.10 | [Paper](https://arxiv.org/abs/2010.02502) | [Code](https://github.com/ermongroup/ddim) | ![GitHub stars](https://img.shields.io/github/stars/ermongroup/ddim?style=social)
