@@ -13,10 +13,10 @@ A curated list of recent efficient video generation methods.
 
 
 ## 🗂️ Table of Contents
-- [Caching](#caching)
 - [Auto-Regressive](#auto-regressive)
-- [Distillation](#distillation)
+- [Caching](#caching)
 - [Pruning](#pruning)
+- [Distillation](#distillation)
 - [Quantization](#quantization)
 - [Parallelism](#parallelism)
 - [Scheduler](#scheduler)
@@ -24,6 +24,14 @@ A curated list of recent efficient video generation methods.
 
 
 ## 📄 Papers
+
+### Auto-Regressive
+* Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation \
+2025.06 | [Paper](https://arxiv.org/abs/2506.09350)
+
+* Packing Input Frame Context in Next-Frame Prediction Models for Video Generation \
+2025.04 | [Paper](https://arxiv.org/abs/2504.12626) | [Code](https://github.com/lllyasviel/FramePack) | ![GitHub stars](https://img.shields.io/github/stars/lllyasviel/FramePack?style=social)
+
 
 
 ### Caching
@@ -50,7 +58,9 @@ A curated list of recent efficient video generation methods.
 
 
 
-### Auto-Regressive
+### Pruning
+* Token Merging for Fast Stable Diffusion \
+2023.03 | [Paper](https://arxiv.org/abs/2303.17604) | [Code](https://github.com/dbolya/tomesd) | ![GitHub stars](https://img.shields.io/github/stars/dbolya/tomesd?style=social)
 
 
 
@@ -72,10 +82,6 @@ A curated list of recent efficient video generation methods.
 
 * Adversarial Diffusion Distillation \
 2023.11 | [Paper](https://arxiv.org/abs/2311.17042)
-
-
-
-### Pruning
 
 
 
