@@ -13,15 +13,15 @@ A curated list of recent efficient video generation methods.
 
 
 ## 🗂️ Table of Contents
-- [Architecture](#architecture)
-- [Attention](#attention)
 - [Auto-Regressive](#auto-regressive)
+- [Attention](#attention)
 - [Caching](#caching)
-- [Distillation](#distillation)
-- [Parallelism](#parallelism)
-- [Quantization](#quantization)
-- [Scheduler](#scheduler)
 - [Token Merging](#token-merging)
+- [Architecture](#architecture)
+- [Distillation](#distillation)
+- [Quantization](#quantization)
+- [Parallelism](#parallelism)
+- [Scheduler](#scheduler)
 
 
 ## 📄 Papers
@@ -88,6 +88,7 @@ A curated list of recent efficient video generation methods.
 2024.04 | [Paper](https://arxiv.org/abs/2404.02747v1) | [Code](https://github.com/HaozheLiu-ST/T-GATE) | ![GitHub stars](https://img.shields.io/github/stars/HaozheLiu-ST/T-GATE?style=social)
 
 
+
 ### Token Merging
 * VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate \
 2025.04 | [Paper](https://arxiv.org/pdf/2504.12259) | [Code](https://github.com/thu-nics/VGDFR) | ![GitHub stars](https://img.shields.io/github/stars/thu-nics/VGDFR?style=social)
@@ -103,6 +104,7 @@ A curated list of recent efficient video generation methods.
 
 * Token Merging for Fast Stable Diffusion \
 2023.03 | [Paper](https://arxiv.org/abs/2303.17604) | [Code](https://github.com/dbolya/tomesd) | ![GitHub stars](https://img.shields.io/github/stars/dbolya/tomesd?style=social)
+
 
 
 ### Architecture
@@ -138,6 +140,7 @@ A curated list of recent efficient video generation methods.
 ### Quantization
 * ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation \
 2024.06 | [Paper](https://arxiv.org/abs/2408.05300) | [Code](https://github.com/thu-nics/ViDiT-Q) | ![GitHub stars](https://img.shields.io/github/stars/thu-nics/ViDiT-Q?style=social)
+
 
 
 ### Parallelism
