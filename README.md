@@ -73,6 +73,9 @@ A curated list of recent efficient video generation methods.
 * Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation \
 2025.06 | [Paper](https://arxiv.org/abs/2506.19852) | [Code](https://github.com/mit-han-lab/radial-attention) | ![GitHub stars](https://img.shields.io/github/stars/mit-han-lab/radial-attention?style=social)
 
+* Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers \
+2025.06 | [Paper](https://arxiv.org/abs/2506.05096)
+
 * VORTA: Efficient Video Diffusion via Routing Sparse Attention \
 2025.05 | [Paper](https://arxiv.org/abs/2505.18809) | [Code](https://github.com/wenhao728/VORTA) | ![GitHub stars](https://img.shields.io/github/stars/wenhao728/VORTA?style=social)
 
@@ -190,11 +193,17 @@ A curated list of recent efficient video generation methods.
 
 
 ### Pruning
+* Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers \
+2025.06 | [Paper](https://arxiv.org/abs/2506.05096)
+
 * FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute \
 2025.02 | [Paper](https://arxiv.org/abs/2502.20126)
 
 * UniCP: A Unified Caching and Pruning Framework for Efficient Video Generation \
 2025.02 | [Paper](https://arxiv.org/abs/2502.04393)
+
+* AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration \
+2024.12 | [Paper](https://arxiv.org/abs/2412.11706) | [Code](https://github.com/wenhao728/AsymRnR) | ![GitHub stars](https://img.shields.io/github/stars/wenhao728/AsymRnR?style=social)
 
 * TinyFusion: Diffusion Transformers Learned Shallow \
 2024.12 | [Paper](https://arxiv.org/abs/2412.01199) | [Code](https://github.com/VainF/TinyFusion) | ![GitHub stars](https://img.shields.io/github/stars/VainF/TinyFusion?style=social)
@@ -238,6 +247,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Quantization
+* FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion \
+2025.06 | [Paper](https://arxiv.org/abs/2506.04648)
+
 * SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models \
 2024.11 | [Paper](https://arxiv.org/abs/2411.05007) | [Code](https://github.com/nunchaku-tech/nunchaku) | ![GitHub stars](https://img.shields.io/github/stars/nunchaku-tech/nunchaku?style=social)
 
@@ -247,11 +259,11 @@ A curated list of recent efficient video generation methods.
 
 
 ### Parallelism
+* KnapFormer: An Online Load Balancer for Efficient Diffusion Transformers Training \
+2025.08 | [Paper](https://arxiv.org/abs/2508.06001) | [Code](https://github.com/Kai-46/KnapFormer/) | [GitHub stars](https://img.shields.io/github/stars/Kai-46/KnapFormer?style=social)
+
 * DDiT: Dynamic Resource Allocation for Diffusion Transformer Model Serving \
 2025.06 | [Paper](https://arxiv.org/abs/2506.13497)
-
-* Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers \
-2025.06 | [Paper](https://arxiv.org/abs/2506.05096)
 
 * xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism \
 2024.05 | [Paper](https://arxiv.org/abs/2411.01738) | [Code](https://github.com/xdit-project/xDiT) | ![GitHub stars](https://img.shields.io/github/stars/xdit-project/xDiT?style=social)
