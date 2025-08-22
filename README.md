@@ -16,7 +16,7 @@ A curated list of recent efficient video generation methods.
 - [Auto-Regressive](#auto-regressive)
 - [Attention](#attention)
 - [Caching](#caching)
-- [Token Merging](#token-merging)
+- [Hierarchical](#hierarchical)
 - [Pruning](#pruning)
 - [Architecture](#architecture)
 - [Distillation](#distillation)
@@ -46,9 +46,6 @@ A curated list of recent efficient video generation methods.
 * Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval \
 2025.06 | [Paper](https://arxiv.org/abs/2506.03141) | [Code](https://github.com/KwaiVGI/Context-as-Memory) | ![GitHub stars](https://img.shields.io/github/stars/KwaiVGI/Context-as-Memory?style=social)
 
-* FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion \
-2025.06 | [Paper](https://arxiv.org/abs/2506.04648)
-
 * Memory-Efficient Visual Autoregressive Modeling with Scale-Aware KV Cache Compression \
 2025.05 | [Paper](https://arxiv.org/abs/2505.19602) | [Code](https://github.com/StargazerX0/ScaleKV) | ![GitHub stars](https://img.shields.io/github/stars/StargazerX0/ScaleKV?style=social)
 
@@ -75,6 +72,9 @@ A curated list of recent efficient video generation methods.
 
 * Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers \
 2025.06 | [Paper](https://arxiv.org/abs/2506.05096)
+
+* FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion \
+2025.06 | [Paper](https://arxiv.org/abs/2506.04648)
 
 * VORTA: Efficient Video Diffusion via Routing Sparse Attention \
 2025.05 | [Paper](https://arxiv.org/abs/2505.18809) | [Code](https://github.com/wenhao728/VORTA) | ![GitHub stars](https://img.shields.io/github/stars/wenhao728/VORTA?style=social)
@@ -165,12 +165,15 @@ A curated list of recent efficient video generation methods.
 
 
 
-### Token Merging
+### Hierarchical
+* Waver: Wave Your Way to Lifelike Video Generation \
+2025.08 | [Paper](https://arxiv.org/abs/2508.15761) | [Code](https://github.com/FoundationVision/Waver) | [GitHub stars](https://img.shields.io/github/stars/FoundationVision/Waver?style=social)
+
+* SRDiffusion: Accelerate Video Diffusion Inference via Sketching-Rendering Cooperation \
+2025.05 | [Paper](https://arxiv.org/abs/2505.19151)
+
 * VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate \
 2025.04 | [Paper](https://arxiv.org/abs/2504.12259) | [Code](https://github.com/thu-nics/VGDFR) | ![GitHub stars](https://img.shields.io/github/stars/thu-nics/VGDFR?style=social)
-
-* D2iT: Dynamic Diffusion Transformer for Accurate Image Generation \
-2025.04 | [Paper](https://arxiv.org/abs/2504.09454)
 
 * Training-free Diffusion Acceleration with Bottleneck Sampling \
 2025.03 | [Paper](https://arxiv.org/abs/2503.18940)
@@ -184,17 +187,14 @@ A curated list of recent efficient video generation methods.
 * Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient \
 2024.11 | [Paper](https://arxiv.org/abs/2411.17787) | [Code](https://github.com/czg1225/CoDe) | ![GitHub stars](https://img.shields.io/github/stars/czg1225/CoDe?style=social)
 
-* Importance-Based Token Merging for Efficient Image and Video Generation \
-2024.11 | [Paper](https://arxiv.org/abs/2411.16720)
-
-* Token Merging for Fast Stable Diffusion \
-2023.03 | [Paper](https://arxiv.org/abs/2303.17604) | [Code](https://github.com/dbolya/tomesd) | ![GitHub stars](https://img.shields.io/github/stars/dbolya/tomesd?style=social)
-
 
 
 ### Pruning
 * Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers \
 2025.06 | [Paper](https://arxiv.org/abs/2506.05096)
+
+* D2iT: Dynamic Diffusion Transformer for Accurate Image Generation \
+2025.04 | [Paper](https://arxiv.org/abs/2504.09454)
 
 * FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute \
 2025.02 | [Paper](https://arxiv.org/abs/2502.20126)
@@ -207,6 +207,12 @@ A curated list of recent efficient video generation methods.
 
 * TinyFusion: Diffusion Transformers Learned Shallow \
 2024.12 | [Paper](https://arxiv.org/abs/2412.01199) | [Code](https://github.com/VainF/TinyFusion) | ![GitHub stars](https://img.shields.io/github/stars/VainF/TinyFusion?style=social)
+
+* Importance-Based Token Merging for Efficient Image and Video Generation \
+2024.11 | [Paper](https://arxiv.org/abs/2411.16720)
+
+* Token Merging for Fast Stable Diffusion \
+2023.03 | [Paper](https://arxiv.org/abs/2303.17604) | [Code](https://github.com/dbolya/tomesd) | ![GitHub stars](https://img.shields.io/github/stars/dbolya/tomesd?style=social)
 
 
 
@@ -280,9 +286,6 @@ A curated list of recent efficient video generation methods.
 
 
 ### Scheduler
-* SRDiffusion: Accelerate Video Diffusion Inference via Sketching-Rendering Cooperation \
-2025.05 | [Paper](https://arxiv.org/abs/2505.19151)
-
 * Pyramidal Flow Matching for Efficient Video Generative Modeling \
 2024.10 | [Paper](https://arxiv.org/abs/2410.05954) | [Code](https://github.com/jy0205/Pyramid-Flow) | ![GitHub stars](https://img.shields.io/github/stars/jy0205/Pyramid-Flow?style=social)
 
