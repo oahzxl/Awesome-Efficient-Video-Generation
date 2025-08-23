@@ -167,7 +167,7 @@ A curated list of recent efficient video generation methods.
 
 ### Hierarchical
 * Waver: Wave Your Way to Lifelike Video Generation \
-2025.08 | [Paper](https://arxiv.org/abs/2508.15761) | [Code](https://github.com/FoundationVision/Waver) | [GitHub stars](https://img.shields.io/github/stars/FoundationVision/Waver?style=social)
+2025.08 | [Paper](https://arxiv.org/abs/2508.15761) | [Code](https://github.com/FoundationVision/Waver) | ![GitHub stars](https://img.shields.io/github/stars/FoundationVision/Waver?style=social)
 
 * SRDiffusion: Accelerate Video Diffusion Inference via Sketching-Rendering Cooperation \
 2025.05 | [Paper](https://arxiv.org/abs/2505.19151)
@@ -186,6 +186,9 @@ A curated list of recent efficient video generation methods.
 
 * Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient \
 2024.11 | [Paper](https://arxiv.org/abs/2411.17787) | [Code](https://github.com/czg1225/CoDe) | ![GitHub stars](https://img.shields.io/github/stars/czg1225/CoDe?style=social)
+
+* Pyramidal Flow Matching for Efficient Video Generative Modeling \
+2024.10 | [Paper](https://arxiv.org/abs/2410.05954) | [Code](https://github.com/jy0205/Pyramid-Flow) | ![GitHub stars](https://img.shields.io/github/stars/jy0205/Pyramid-Flow?style=social)
 
 
 
