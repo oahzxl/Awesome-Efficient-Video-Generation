@@ -28,6 +28,9 @@ A curated list of recent efficient video generation methods.
 ## 📄 Papers
 
 ### Auto-Regressive
+* Mixture of Contexts for Long Video Generation \
+2025.08 | [Paper](https://arxiv.org/abs/2508.21058)
+
 * Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation \
 2025.08 | [Paper](https://arxiv.org/abs/2508.03334) | [Code](https://github.com/Tele-AI/MMPL) | ![GitHub stars](https://img.shields.io/github/stars/Tele-AI/MMPL?style=social)
 
