@@ -94,6 +94,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Caching
+* Reusing Computation in Text-to-Image Diffusion for Efficient Generation of Image Sets
+2025.08 | [Paper](https://arxiv.org/abs/2508.21032)
+
 * DiCache: Let Diffusion Model Determine Its Own Cache \
 2025.08 | [Paper](https://arxiv.org/abs/2508.17356) | [Code](https://github.com/Bujiazi/DiCache) | ![GitHub stars](https://img.shields.io/github/stars/Bujiazi/DiCache?style=social)
 
@@ -241,6 +244,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Distillation
+* POSE: Phased One-Step Adversarial Equilibrium for Video Diffusion Models \
+2025.08 | [Paper](https://arxiv.org/abs/2508.21019)
+
 * Dual-Expert Consistency Model for Efficient and High-Quality Video Generation \
 2025.06 | [Paper](https://arxiv.org/abs/2506.03123) | [Code](https://github.com/Vchitect/DCM) | ![GitHub stars](https://img.shields.io/github/stars/Vchitect/DCM?style=social)
 
