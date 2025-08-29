@@ -91,6 +91,15 @@ A curated list of recent efficient video generation methods.
 
 
 ### Caching
+* DiCache: Let Diffusion Model Determine Its Own Cache \
+2025.08 | [Paper](https://arxiv.org/abs/2508.17356) | [Code](https://github.com/Bujiazi/DiCache) | ![GitHub stars](https://img.shields.io/github/stars/Bujiazi/DiCache?style=social)
+
+* HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching \
+2025.08 | [Paper](https://arxiv.org/abs/2508.16984)
+
+* Forecast then Calibrate: Feature Caching as ODE for Efficient Diffusion Transformers \
+2025.08 | [Paper](https://arxiv.org/abs/2508.16211)
+
 * MixCache: Mixture-of-Cache for Video Diffusion Transformer Acceleration \
 2025.08 | [Paper](https://arxiv.org/abs/2508.12691)
 
