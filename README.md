@@ -95,7 +95,7 @@ A curated list of recent efficient video generation methods.
 
 ### Caching
 * ERTACache: Error Rectification and Timesteps Adjustment for Efficient Diffusion \
-2025.08 | [Paper](https://arxiv.org/abs/2508.21091) | [Code](https://github.com/bytedance/ERTACache) | [GitHub stars](https://img.shields.io/github/stars/bytedance/ERTACache?style=social)
+2025.08 | [Paper](https://arxiv.org/abs/2508.21091) | [Code](https://github.com/bytedance/ERTACache) | ![GitHub stars](https://img.shields.io/github/stars/bytedance/ERTACache?style=social)
 
 * Reusing Computation in Text-to-Image Diffusion for Efficient Generation of Image Sets
 2025.08 | [Paper](https://arxiv.org/abs/2508.21032)
@@ -212,7 +212,7 @@ A curated list of recent efficient video generation methods.
 
 ### Pruning
 * TokensGen: Harnessing Condensed Tokens for Long Video Generation \
-2025.07 | [Paper](https://arxiv.org/abs/2507.15728) | [Code](https://github.com/Vicky0522/TokensGen) | [GitHub stars](https://img.shields.io/github/stars/Vicky0522/TokensGen?style=social)
+2025.07 | [Paper](https://arxiv.org/abs/2507.15728) | [Code](https://github.com/Vicky0522/TokensGen) | ![GitHub stars](https://img.shields.io/github/stars/Vicky0522/TokensGen?style=social)
 
 * Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers \
 2025.06 | [Paper](https://arxiv.org/abs/2506.05096)
