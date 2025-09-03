@@ -109,6 +109,9 @@ A curated list of recent efficient video generation methods.
 * HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching \
 2025.08 | [Paper](https://arxiv.org/abs/2508.16984)
 
+* OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models
+2025.08 | [Paper](https://arxiv.org/abs/2508.16212)
+
 * Forecast then Calibrate: Feature Caching as ODE for Efficient Diffusion Transformers \
 2025.08 | [Paper](https://arxiv.org/abs/2508.16211)
 
@@ -214,6 +217,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Pruning
+* HERO: Hierarchical Extrapolation and Refresh for Efficient World Models \
+2025.08 | [Paper](https://arxiv.org/abs/2508.17588)
+
 * TokensGen: Harnessing Condensed Tokens for Long Video Generation \
 2025.07 | [Paper](https://arxiv.org/abs/2507.15728) | [Code](https://github.com/Vicky0522/TokensGen) | ![GitHub stars](https://img.shields.io/github/stars/Vicky0522/TokensGen?style=social)
 
