@@ -91,6 +91,12 @@ A curated list of recent efficient video generation methods.
 * Training-free and Adaptive Sparse Attention for Efficient Long Video Generation \
 2025.02 | [Paper](https://arxiv.org/abs/2502.21079)
 
+* MoBA: Mixture of Block Attention for Long-Context LLMs \
+2025.02 | [Paper](https://arxiv.org/abs/2502.13189) | [Code](https://github.com/MoonshotAI/MoBA) | ![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/MoBA?style=social)
+
+* Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention \
+2025.02 | [Paper](https://arxiv.org/abs/2502.11089)
+
 * AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration \
 2024.12 | [Paper](https://arxiv.org/abs/2412.11706) | [Code](https://github.com/wenhao728/AsymRnR) | ![GitHub stars](https://img.shields.io/github/stars/wenhao728/AsymRnR?style=social)
 
