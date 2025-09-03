@@ -47,7 +47,7 @@ A curated list of recent efficient video generation methods.
 2025.06 | [Paper](https://arxiv.org/abs/2506.05284)
 
 * Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval \
-2025.06 | [Paper](https://arxiv.org/abs/2506.03141) | [Code](https://github.com/KwaiVGI/Context-as-Memory) | ![GitHub stars](https://img.shields.io/github/stars/KwaiVGI/Context-as-Memory?style=social)
+2025.06 | [Paper](https://arxiv.org/abs/2506.03141)
 
 * Memory-Efficient Visual Autoregressive Modeling with Scale-Aware KV Cache Compression \
 2025.05 | [Paper](https://arxiv.org/abs/2505.19602) | [Code](https://github.com/StargazerX0/ScaleKV) | ![GitHub stars](https://img.shields.io/github/stars/StargazerX0/ScaleKV?style=social)
@@ -98,7 +98,7 @@ A curated list of recent efficient video generation methods.
 
 ### Caching
 * ERTACache: Error Rectification and Timesteps Adjustment for Efficient Diffusion \
-2025.08 | [Paper](https://arxiv.org/abs/2508.21091) | [Code](https://github.com/bytedance/ERTACache) | ![GitHub stars](https://img.shields.io/github/stars/bytedance/ERTACache?style=social)
+2025.08 | [Paper](https://arxiv.org/abs/2508.21091)
 
 * Reusing Computation in Text-to-Image Diffusion for Efficient Generation of Image Sets
 2025.08 | [Paper](https://arxiv.org/abs/2508.21032)
@@ -302,7 +302,7 @@ A curated list of recent efficient video generation methods.
 
 ### Parallelism
 * KnapFormer: An Online Load Balancer for Efficient Diffusion Transformers Training \
-2025.08 | [Paper](https://arxiv.org/abs/2508.06001) | [Code](https://github.com/Kai-46/KnapFormer/) | [GitHub stars](https://img.shields.io/github/stars/Kai-46/KnapFormer?style=social)
+2025.08 | [Paper](https://arxiv.org/abs/2508.06001) | [Code](https://github.com/Kai-46/KnapFormer/) | ![GitHub stars](https://img.shields.io/github/stars/Kai-46/KnapFormer?style=social)
 
 * DDiT: Dynamic Resource Allocation for Diffusion Transformer Model Serving \
 2025.06 | [Paper](https://arxiv.org/abs/2506.13497)
