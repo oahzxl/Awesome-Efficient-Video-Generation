@@ -64,6 +64,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Attention
+* Bidirectional Sparse Attention for Faster Video Diffusion Training \
+2025.09 | [Paper](https://arxiv.org/abs/2509.01085)
+
 * Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation \
 2025.08 | [Paper](https://arxiv.org/abs/2508.10774) | [Code](https://github.com/ziplab/VIDEO-BLADE) | ![GitHub stars](https://img.shields.io/github/stars/ziplab/VIDEO-BLADE?style=social)
 
@@ -250,6 +253,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Distillation
+* Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling \
+2025.09 | [Paper](https://arxiv.org/abs/2509.01624)
+
 * POSE: Phased One-Step Adversarial Equilibrium for Video Diffusion Models \
 2025.08 | [Paper](https://arxiv.org/abs/2508.21019)
 
@@ -280,6 +286,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Quantization
+* Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling \
+2025.09 | [Paper](https://arxiv.org/abs/2509.01624)
+
 * FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion \
 2025.06 | [Paper](https://arxiv.org/abs/2506.04648)
 
@@ -313,6 +322,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Scheduler
+* A-FloPS: Accelerating Diffusion Sampling with Adaptive Flow Path Sampler \
+2025.09 | [Paper](https://arxiv.org/abs/2509.00036)
+
 * Pyramidal Flow Matching for Efficient Video Generative Modeling \
 2024.10 | [Paper](https://arxiv.org/abs/2410.05954) | [Code](https://github.com/jy0205/Pyramid-Flow) | ![GitHub stars](https://img.shields.io/github/stars/jy0205/Pyramid-Flow?style=social)
 
