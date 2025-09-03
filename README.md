@@ -82,6 +82,12 @@ A curated list of recent efficient video generation methods.
 * FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion \
 2025.06 | [Paper](https://arxiv.org/abs/2506.04648)
 
+* Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers \
+2025.06 | [Paper](https://arxiv.org/abs/2506.03065)
+
+* Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation \
+2025.05 | [Paper](https://arxiv.org/abs/2505.18875)
+
 * VORTA: Efficient Video Diffusion via Routing Sparse Attention \
 2025.05 | [Paper](https://arxiv.org/abs/2505.18809) | [Code](https://github.com/wenhao728/VORTA) | ![GitHub stars](https://img.shields.io/github/stars/wenhao728/VORTA?style=social)
 
@@ -96,6 +102,12 @@ A curated list of recent efficient video generation methods.
 
 * Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention \
 2025.02 | [Paper](https://arxiv.org/abs/2502.11089)
+
+* Fast Video Generation with Sliding Tile Attention \
+2025.02 | [Paper](https://arxiv.org/abs/2502.04507) | [Code](https://github.com/hao-ai-lab/FastVideo) | ![GitHub stars](https://img.shields.io/github/stars/hao-ai-lab/FastVideo?style=social)
+
+* Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity
+2025.02 | [Paper](https://arxiv.org/abs/2502.01776) | [Code](https://github.com/svg-project/Sparse-VideoGen) | ![GitHub stars](https://img.shields.io/github/stars/svg-project/Sparse-VideoGen?style=social)
 
 * AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration \
 2024.12 | [Paper](https://arxiv.org/abs/2412.11706) | [Code](https://github.com/wenhao728/AsymRnR) | ![GitHub stars](https://img.shields.io/github/stars/wenhao728/AsymRnR?style=social)
