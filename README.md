@@ -67,6 +67,9 @@ A curated list of recent efficient video generation methods.
 * Bidirectional Sparse Attention for Faster Video Diffusion Training \
 2025.09 | [Paper](https://arxiv.org/abs/2509.01085)
 
+* Compact Attention: Exploiting Structured Spatio-Temporal Sparsity for Fast Video Generation \
+2025.08 | [Paper](https://arxiv.org/abs/2508.12969)
+
 * Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation \
 2025.08 | [Paper](https://arxiv.org/abs/2508.10774) | [Code](https://github.com/ziplab/VIDEO-BLADE) | ![GitHub stars](https://img.shields.io/github/stars/ziplab/VIDEO-BLADE?style=social)
 
