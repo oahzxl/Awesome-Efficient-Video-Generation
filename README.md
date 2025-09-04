@@ -355,7 +355,7 @@ A curated list of recent efficient video generation methods.
 * A-FloPS: Accelerating Diffusion Sampling with Adaptive Flow Path Sampler \
 2025.09 | [Paper](https://arxiv.org/abs/2509.00036)
 
-* Pretrained Diffusion Models Are Inherently Skipped-Step Samplers
+* Pretrained Diffusion Models Are Inherently Skipped-Step Samplers \
 2025.08 | [Paper](https://arxiv.org/abs/2508.15233)
 
 * Disentanglement in T-space for Faster and Distributed Training of Diffusion Models with Fewer Latent-states \
