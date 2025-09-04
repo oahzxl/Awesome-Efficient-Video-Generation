@@ -109,7 +109,7 @@ A curated list of recent efficient video generation methods.
 * Fast Video Generation with Sliding Tile Attention \
 2025.02 | [Paper](https://arxiv.org/abs/2502.04507) | [Code](https://github.com/hao-ai-lab/FastVideo) | ![GitHub stars](https://img.shields.io/github/stars/hao-ai-lab/FastVideo?style=social)
 
-* Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity
+* Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity \
 2025.02 | [Paper](https://arxiv.org/abs/2502.01776) | [Code](https://github.com/svg-project/Sparse-VideoGen) | ![GitHub stars](https://img.shields.io/github/stars/svg-project/Sparse-VideoGen?style=social)
 
 * AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration \
@@ -121,7 +121,7 @@ A curated list of recent efficient video generation methods.
 * ERTACache: Error Rectification and Timesteps Adjustment for Efficient Diffusion \
 2025.08 | [Paper](https://arxiv.org/abs/2508.21091)
 
-* Reusing Computation in Text-to-Image Diffusion for Efficient Generation of Image Sets
+* Reusing Computation in Text-to-Image Diffusion for Efficient Generation of Image Sets \
 2025.08 | [Paper](https://arxiv.org/abs/2508.21032)
 
 * DiCache: Let Diffusion Model Determine Its Own Cache \
@@ -130,7 +130,7 @@ A curated list of recent efficient video generation methods.
 * HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching \
 2025.08 | [Paper](https://arxiv.org/abs/2508.16984)
 
-* OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models
+* OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models \
 2025.08 | [Paper](https://arxiv.org/abs/2508.16212)
 
 * Forecast then Calibrate: Feature Caching as ODE for Efficient Diffusion Transformers \
