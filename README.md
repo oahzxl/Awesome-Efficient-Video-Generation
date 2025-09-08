@@ -331,6 +331,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Parallelism
+* STADI: Fine-Grained Step-Patch Diffusion Parallelism for Heterogeneous GPUs \
+2025.09 | [Paper](https://arxiv.org/abs/2509.04719)
+
 * KnapFormer: An Online Load Balancer for Efficient Diffusion Transformers Training \
 2025.08 | [Paper](https://arxiv.org/abs/2508.06001) | [Code](https://github.com/Kai-46/KnapFormer/) | ![GitHub stars](https://img.shields.io/github/stars/Kai-46/KnapFormer?style=social)
 
