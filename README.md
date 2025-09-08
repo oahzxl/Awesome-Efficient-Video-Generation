@@ -4,8 +4,8 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Last Commit](https://img.shields.io/github/last-commit/xuyang-liu16/Awesome-Diffusion-Acceleration.svg?style=flat&color=orange)](https://github.com/xuyang-liu16/Awesome-Diffusion-Acceleration)
-[![GitHub](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/Awesome-Efficient-Video-Generation.svg?style=social)](https://github.com/NUS-HPC-AI-Lab/Awesome-Efficient-Video-Generation.git)  
+[![Last Commit](https://img.shields.io/github/last-commit/oahzxl/Awesome-Efficient-Video-Generation.svg?style=flat&color=orange)](https://github.com/oahzxl/Awesome-Efficient-Video-Generation)
+[![GitHub](https://img.shields.io/github/stars/oahzxl/Awesome-Efficient-Video-Generation.svg?style=social)](https://github.com/oahzxl/Awesome-Efficient-Video-Generation.git)  
 
 </p>
 
