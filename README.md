@@ -13,6 +13,7 @@ A curated list of recent efficient video generation methods.
 
 
 ## 🗂️ Table of Contents
+- [Long Context](#long-context)
 - [Auto-Regressive](#auto-regressive)
 - [Attention](#attention)
 - [Caching](#caching)
@@ -27,7 +28,7 @@ A curated list of recent efficient video generation methods.
 
 ## 📄 Papers
 
-### Auto-Regressive
+### Long Context
 * Mixture of Contexts for Long Video Generation \
 2025.08 | [Paper](https://arxiv.org/abs/2508.21058)
 
@@ -36,12 +37,6 @@ A curated list of recent efficient video generation methods.
 
 * LoViC: Efficient Long Video Generation with Context Compression \
 2025.07 | [Paper](https://arxiv.org/abs/2507.12952)
-
-* Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation \
-2025.06 | [Paper](https://arxiv.org/abs/2506.09350)
-
-* Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion \
-2025.06 | [Paper](https://arxiv.org/abs/2506.08009) | [Code](https://github.com/guandeh17/Self-Forcing) | ![GitHub stars](https://img.shields.io/github/stars/guandeh17/Self-Forcing?style=social)
 
 * Video World Models with Long-term Spatial Memory \
 2025.06 | [Paper](https://arxiv.org/abs/2506.05284)
@@ -57,6 +52,24 @@ A curated list of recent efficient video generation methods.
 
 * Long-Context Autoregressive Video Modeling with Next-Frame Prediction \
 2025.03 | [Paper](https://arxiv.org/abs/2503.19325) | [Code](https://github.com/showlab/FAR) | ![GitHub stars](https://img.shields.io/github/stars/showlab/FAR?style=social)
+
+
+
+### Auto-Regressive
+* Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation \
+2025.08 | [Paper](https://arxiv.org/abs/2508.03334) | [Code](https://github.com/Tele-AI/MMPL) | ![GitHub stars](https://img.shields.io/github/stars/Tele-AI/MMPL?style=social)
+
+* Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation \
+2025.06 | [Paper](https://arxiv.org/abs/2506.09350)
+
+* Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion \
+2025.06 | [Paper](https://arxiv.org/abs/2506.08009) | [Code](https://github.com/guandeh17/Self-Forcing) | ![GitHub stars](https://img.shields.io/github/stars/guandeh17/Self-Forcing?style=social)
+
+* Memory-Efficient Visual Autoregressive Modeling with Scale-Aware KV Cache Compression \
+2025.05 | [Paper](https://arxiv.org/abs/2505.19602) | [Code](https://github.com/StargazerX0/ScaleKV) | ![GitHub stars](https://img.shields.io/github/stars/StargazerX0/ScaleKV?style=social)
+
+* Packing Input Frame Context in Next-Frame Prediction Models for Video Generation \
+2025.04 | [Paper](https://arxiv.org/abs/2504.12626) | [Code](https://github.com/lllyasviel/FramePack) | ![GitHub stars](https://img.shields.io/github/stars/lllyasviel/FramePack?style=social)
 
 * From Slow Bidirectional to Fast Autoregressive Video Diffusion Models \
 2024.12 | [Paper](https://arxiv.org/abs/2412.07772) | [Code](https://github.com/tianweiy/CausVid) | ![GitHub stars](https://img.shields.io/github/stars/tianweiy/CausVid?style=social)
