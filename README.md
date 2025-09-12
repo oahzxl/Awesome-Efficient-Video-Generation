@@ -29,6 +29,9 @@ A curated list of recent efficient video generation methods.
 ## 📄 Papers
 
 ### Long Context
+* Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis \
+2025.09 | [Paper](https://arxiv.org/abs/2509.09595)
+
 * HunyuanWorld-Voyager: Technical Report \
 2025.08 | [Paper](https://3d-models.hunyuan.tencent.com/voyager/voyager_en/assets/HYWorld_Voyager.pdf) | [Code](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) | ![GitHub stars](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanWorld-Voyager?style=social)
 
