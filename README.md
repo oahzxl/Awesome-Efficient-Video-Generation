@@ -17,6 +17,7 @@ A curated list of recent efficient video generation methods.
 - [Auto-Regressive](#auto-regressive)
 - [Attention](#attention)
 - [Caching](#caching)
+- [VAE](#vae)
 - [Hierarchical](#hierarchical)
 - [Pruning](#pruning)
 - [Architecture](#architecture)
@@ -229,6 +230,12 @@ A curated list of recent efficient video generation methods.
 
 
 
+### VAE
+* REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder \
+2025.03 | [Paper](https://arxiv.org/abs/2503.08665)
+
+
+
 ### Hierarchical
 * Waver: Wave Your Way to Lifelike Video Generation \
 2025.08 | [Paper](https://arxiv.org/abs/2508.15761) | [Code](https://github.com/FoundationVision/Waver) | ![GitHub stars](https://img.shields.io/github/stars/FoundationVision/Waver?style=social)
@@ -290,6 +297,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Architecture
+* Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders \
+2025.09 | [Paper](https://arxiv.org/abs/2509.09547)
+
 * Test-Time Training Done Right \
 2025.05 | [Paper](https://arxiv.org/abs/2505.23884) | [Code](https://github.com/a1600012888/LaCT) | ![GitHub stars](https://img.shields.io/github/stars/a1600012888/LaCT?style=social)
 
