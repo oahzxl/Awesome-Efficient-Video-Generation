@@ -138,6 +138,18 @@ A curated list of recent efficient video generation methods.
 
 
 ### Caching
+* SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation \
+2025.09 | [Paper](https://arxiv.org/abs/2509.13848)
+
+* BWCache: Accelerating Video Diffusion Transformers through Block-Wise Caching \
+2025.09 | [Paper](https://arxiv.org/abs/2509.13789)
+
+* SpeCa: Accelerating Diffusion Transformers with Speculative Feature Caching \
+2025.09 | [Paper](https://www.arxiv.org/abs/2509.11628) | [Code](https://github.com/Shenyi-Z/Cache4Diffusion) | ![GitHub stars](https://img.shields.io/github/stars/Shenyi-Z/Cache4Diffusion?style=social)
+
+* Compute Only 16 Tokens in One Timestep: Accelerating Diffusion Transformers with Cluster-Driven Feature Caching \
+2025.09 | [Paper](https://arxiv.org/abs/2509.10312) | [Code](https://github.com/Shenyi-Z/Cache4Diffusion) | ![GitHub stars](https://img.shields.io/github/stars/Shenyi-Z/Cache4Diffusion?style=social)
+
 * ERTACache: Error Rectification and Timesteps Adjustment for Efficient Diffusion \
 2025.08 | [Paper](https://arxiv.org/abs/2508.21091)
 
