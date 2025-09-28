@@ -30,6 +30,9 @@ A curated list of recent efficient video generation methods.
 ## 📄 Papers
 
 ### Long Context
+* KeyWorld: Key Frame Reasoning Enables Effective and Efficient World Models \
+2025.09 | [paper](https://arxiv.org/abs/2509.21027) | [code](https://anonymous.4open.science/r/Keyworld-E43D)
+
 * Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis \
 2025.09 | [Paper](https://arxiv.org/abs/2509.09595)
 
@@ -84,6 +87,12 @@ A curated list of recent efficient video generation methods.
 
 
 ### Attention
+* Towards Interpretable and Efficient Attention: Compressing All by Contracting a Few \
+2025.09 | [Paper](https://arxiv.org/abs/2509.16875)
+
+* FG-Attn: Leveraging Fine-Grained Sparsity In Diffusion Transformers \
+2025.09 | [Paper](https://arxiv.org/abs/2509.16518)
+
 * Bidirectional Sparse Attention for Faster Video Diffusion Training \
 2025.09 | [Paper](https://arxiv.org/abs/2509.01085)
 
@@ -321,6 +330,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Distillation
+* SD3.5-Flash: Distribution-Guided Distillation of Generative Flows \
+2025.09 | [Paper](https://arxiv.org/abs/2509.21318)
+
 * Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling \
 2025.09 | [Paper](https://arxiv.org/abs/2509.01624)
 
@@ -396,6 +408,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Scheduler
+* ContextFlow: Training-Free Video Object Editing via Adaptive Context Enrichment \
+2025.09 | [Paper](https://arxiv.org/abs/2509.17818)
+
 * A-FloPS: Accelerating Diffusion Sampling with Adaptive Flow Path Sampler \
 2025.09 | [Paper](https://arxiv.org/abs/2509.00036)
 
