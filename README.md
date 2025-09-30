@@ -30,6 +30,12 @@ A curated list of recent efficient video generation methods.
 ## 📄 Papers
 
 ### Long Context
+* LongLive: Real-time Interactive Long Video Generation \
+2025.09 | [Paper](https://arxiv.org/abs/2509.22622) | [Code](https://github.com/NVlabs/LongLive) | [GitHub stars](https://img.shields.io/github/stars/NVlabs/LongLive?style=social)
+
+* Longscape: Advancing Long-horizon Embodied World Models with Context-aware MoE \
+2025.09 | [Paper](https://arxiv.org/abs/2509.21790) | [Code](https://github.com/tsinghua-fib-lab/Longscape) | [GitHub stars](https://img.shields.io/github/stars/tsinghua-fib-lab/Longscape?style=social)
+
 * KeyWorld: Key Frame Reasoning Enables Effective and Efficient World Models \
 2025.09 | [paper](https://arxiv.org/abs/2509.21027) | [code](https://anonymous.4open.science/r/Keyworld-E43D)
 
@@ -66,6 +72,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Auto-Regressive
+* Longscape: Advancing Long-horizon Embodied World Models with Context-aware MoE \
+2025.09 | [Paper](https://arxiv.org/abs/2509.21790) | [Code](https://github.com/tsinghua-fib-lab/Longscape) | [GitHub stars](https://img.shields.io/github/stars/tsinghua-fib-lab/Longscape?style=social)
+
 * Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation \
 2025.08 | [Paper](https://arxiv.org/abs/2508.03334) | [Code](https://github.com/Tele-AI/MMPL) | ![GitHub stars](https://img.shields.io/github/stars/Tele-AI/MMPL?style=social)
 
@@ -87,6 +96,12 @@ A curated list of recent efficient video generation methods.
 
 
 ### Attention
+* LongLive: Real-time Interactive Long Video Generation \
+2025.09 | [Paper](https://arxiv.org/abs/2509.22622) | [Code](https://github.com/NVlabs/LongLive) | [GitHub stars](https://img.shields.io/github/stars/NVlabs/LongLive?style=social)
+
+* RAPID^3: Tri-Level Reinforced Acceleration Policies for Diffusion Transformer \
+2025.09 | [Paper](https://arxiv.org/abs/2509.22323)
+
 * Towards Interpretable and Efficient Attention: Compressing All by Contracting a Few \
 2025.09 | [Paper](https://arxiv.org/abs/2509.16875)
 
@@ -147,6 +162,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Caching
+* RAPID^3: Tri-Level Reinforced Acceleration Policies for Diffusion Transformer \
+2025.09 | [Paper](https://arxiv.org/abs/2509.22323)
+
 * SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation \
 2025.09 | [Paper](https://arxiv.org/abs/2509.13848)
 
@@ -285,6 +303,12 @@ A curated list of recent efficient video generation methods.
 
 
 ### Pruning
+* SlimDiff: Training-Free, Activation-Guided Hands-free Slimming of Diffusion Models \
+2025.09 | [Paper](https://arxiv.org/abs/2509.21498)
+
+* Do Sparse Subnetworks Exhibit Cognitively Aligned Attention? Effects of Pruning on Saliency Map Fidelity, Sparsity, and Concept Coherence \
+2025.09 | [Paper](https://arxiv.org/abs/2509.21387)
+
 * HERO: Hierarchical Extrapolation and Refresh for Efficient World Models \
 2025.08 | [Paper](https://arxiv.org/abs/2508.17588)
 
@@ -330,6 +354,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Distillation
+* DistillKac: Few-Step Image Generation via Damped Wave Equations \
+2025.09 | [Paper](https://arxiv.org/abs/2509.21513)
+
 * SD3.5-Flash: Distribution-Guided Distillation of Generative Flows \
 2025.09 | [Paper](https://arxiv.org/abs/2509.21318)
 
