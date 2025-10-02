@@ -31,10 +31,10 @@ A curated list of recent efficient video generation methods.
 
 ### Long Context
 * LongLive: Real-time Interactive Long Video Generation \
-2025.09 | [Paper](https://arxiv.org/abs/2509.22622) | [Code](https://github.com/NVlabs/LongLive) | [GitHub stars](https://img.shields.io/github/stars/NVlabs/LongLive?style=social)
+2025.09 | [Paper](https://arxiv.org/abs/2509.22622) | [Code](https://github.com/NVlabs/LongLive) | ![GitHub stars](https://img.shields.io/github/stars/NVlabs/LongLive?style=social)
 
 * Longscape: Advancing Long-horizon Embodied World Models with Context-aware MoE \
-2025.09 | [Paper](https://arxiv.org/abs/2509.21790) | [Code](https://github.com/tsinghua-fib-lab/Longscape) | [GitHub stars](https://img.shields.io/github/stars/tsinghua-fib-lab/Longscape?style=social)
+2025.09 | [Paper](https://arxiv.org/abs/2509.21790) | [Code](https://github.com/tsinghua-fib-lab/Longscape) | ![GitHub stars](https://img.shields.io/github/stars/tsinghua-fib-lab/Longscape?style=social)
 
 * KeyWorld: Key Frame Reasoning Enables Effective and Efficient World Models \
 2025.09 | [paper](https://arxiv.org/abs/2509.21027) | [code](https://anonymous.4open.science/r/Keyworld-E43D)
@@ -73,7 +73,7 @@ A curated list of recent efficient video generation methods.
 
 ### Auto-Regressive
 * Longscape: Advancing Long-horizon Embodied World Models with Context-aware MoE \
-2025.09 | [Paper](https://arxiv.org/abs/2509.21790) | [Code](https://github.com/tsinghua-fib-lab/Longscape) | [GitHub stars](https://img.shields.io/github/stars/tsinghua-fib-lab/Longscape?style=social)
+2025.09 | [Paper](https://arxiv.org/abs/2509.21790) | [Code](https://github.com/tsinghua-fib-lab/Longscape) | ![GitHub stars](https://img.shields.io/github/stars/tsinghua-fib-lab/Longscape?style=social)
 
 * Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation \
 2025.08 | [Paper](https://arxiv.org/abs/2508.03334) | [Code](https://github.com/Tele-AI/MMPL) | ![GitHub stars](https://img.shields.io/github/stars/Tele-AI/MMPL?style=social)
@@ -96,8 +96,11 @@ A curated list of recent efficient video generation methods.
 
 
 ### Attention
+* SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse–Linear Attention \
+2025.09 | [Paper](https://arxiv.org/abs/2509.24006) | [Code](https://github.com/thu-ml/SLA) | ![GitHub stars](https://img.shields.io/github/stars/thu-ml/SLA?style=social)
+
 * LongLive: Real-time Interactive Long Video Generation \
-2025.09 | [Paper](https://arxiv.org/abs/2509.22622) | [Code](https://github.com/NVlabs/LongLive) | [GitHub stars](https://img.shields.io/github/stars/NVlabs/LongLive?style=social)
+2025.09 | [Paper](https://arxiv.org/abs/2509.22622) | [Code](https://github.com/NVlabs/LongLive) | ![GitHub stars](https://img.shields.io/github/stars/NVlabs/LongLive?style=social)
 
 * RAPID^3: Tri-Level Reinforced Acceleration Policies for Diffusion Transformer \
 2025.09 | [Paper](https://arxiv.org/abs/2509.22323)
@@ -270,6 +273,12 @@ A curated list of recent efficient video generation methods.
 
 
 ### VAE
+* DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder \
+2025.09 | [Paper](https://arxiv.org/abs/2509.25182) | [Code](https://github.com/dc-ai-projects/DC-VideoGen) | ![GitHub stars](https://img.shields.io/github/stars/dc-ai-projects/DC-VideoGen?style=social)
+
+* DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space \
+2025.09 | [Paper](https://arxiv.org/abs/2509.25180) | [Code](https://github.com/dc-ai-projects/DC-Gen) | ![GitHub stars](https://img.shields.io/github/stars/dc-ai-projects/DC-Gen?style=social)
+
 * REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder \
 2025.03 | [Paper](https://arxiv.org/abs/2503.08665)
 
@@ -342,6 +351,15 @@ A curated list of recent efficient video generation methods.
 
 
 ### Architecture
+* PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution \
+2025.09 | [Paper](https://arxiv.org/abs/2509.26025v1)
+
+* HunyuanImage 3.0 Technical Report \
+2025.09 | [Paper](https://arxiv.org/abs/2509.23951) | [Code](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) | ![GitHub stars](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanImage-3.0?style=social)
+
+* Aligning Visual Foundation Encoders to Tokenizers for Diffusion Models \
+2025.09 | [Paper](https://arxiv.org/abs/2509.25162)
+
 * Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders \
 2025.09 | [Paper](https://arxiv.org/abs/2509.09547)
 
@@ -354,6 +372,12 @@ A curated list of recent efficient video generation methods.
 
 
 ### Distillation
+* Post-Training Quantization via Residual Truncation and Zero Suppression for Diffusion Models \
+2025.09 | [Paper](https://arxiv.org/abs/2509.26436v1)
+
+* Score Distillation of Flow Matching Models \
+2025.09 | [Paper](https://arxiv.org/abs/2509.25127)
+
 * DistillKac: Few-Step Image Generation via Damped Wave Equations \
 2025.09 | [Paper](https://arxiv.org/abs/2509.21513)
 
@@ -435,6 +459,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Scheduler
+* EVODiff: Entropy-aware Variance Optimized Diffusion Inference \
+2024.05 | [Paper](https://arxiv.org/abs/2405.19799) | [Code](https://github.com/sjtu-mmai-lab/EVODiff) | ![GitHub stars](https://img.shields.io/github/stars/sjtu-mmai-lab/EVODiff?style=social)
+
 * ContextFlow: Training-Free Video Object Editing via Adaptive Context Enrichment \
 2025.09 | [Paper](https://arxiv.org/abs/2509.17818)
 
