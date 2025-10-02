@@ -30,6 +30,9 @@ A curated list of recent efficient video generation methods.
 ## 📄 Papers
 
 ### Long Context
+* EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory \
+2025.10 | [Paper](https://arxiv.org/abs/2510.01183) | [Code](https://github.com/JiahaoPlus/EvoWorld) | ![GitHub stars](https://img.shields.io/github/stars/JiahaoPlus/EvoWorld?style=social)
+
 * LongLive: Real-time Interactive Long Video Generation \
 2025.09 | [Paper](https://arxiv.org/abs/2509.22622) | [Code](https://github.com/NVlabs/LongLive) | ![GitHub stars](https://img.shields.io/github/stars/NVlabs/LongLive?style=social)
 
