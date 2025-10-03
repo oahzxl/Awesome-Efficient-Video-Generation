@@ -30,6 +30,12 @@ A curated list of recent efficient video generation methods.
 ## 📄 Papers
 
 ### Long Context
+* VideoNSA: Native Sparse Attention Scales Video Understanding \
+2025.10 | [Paper](https://arxiv.org/abs/2510.02295) | [Code](https://github.com/Espere-1119-Song/VideoNSA) | ![GitHub stars](https://img.shields.io/github/stars/Espere-1119-Song/VideoNSA?style=social)
+
+* Pack and Force Your Memory: Long-form and Consistent Video Generation \
+2025.10 | [Paper](https://arxiv.org/abs/2510.01784)
+
 * EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory \
 2025.10 | [Paper](https://arxiv.org/abs/2510.01183) | [Code](https://github.com/JiahaoPlus/EvoWorld) | ![GitHub stars](https://img.shields.io/github/stars/JiahaoPlus/EvoWorld?style=social)
 
