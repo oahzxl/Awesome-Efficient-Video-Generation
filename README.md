@@ -30,6 +30,9 @@ A curated list of recent efficient video generation methods.
 ## 📄 Papers
 
 ### Long Context
+* Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft \
+2025.10 | [Paper](http://arxiv.org/abs/2510.03198v1)
+
 * VideoNSA: Native Sparse Attention Scales Video Understanding \
 2025.10 | [Paper](https://arxiv.org/abs/2510.02295) | [Code](https://github.com/Espere-1119-Song/VideoNSA) | ![GitHub stars](https://img.shields.io/github/stars/Espere-1119-Song/VideoNSA?style=social)
 
@@ -105,6 +108,9 @@ A curated list of recent efficient video generation methods.
 
 
 ### Attention
+* Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation \
+2025.10 | [Paper](http://arxiv.org/abs/2510.02617v1)
+
 * SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse–Linear Attention \
 2025.09 | [Paper](https://arxiv.org/abs/2509.24006) | [Code](https://github.com/thu-ml/SLA) | ![GitHub stars](https://img.shields.io/github/stars/thu-ml/SLA?style=social)
 
